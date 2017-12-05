@@ -11,3 +11,11 @@ This Repo contains 3 components
  
 3. UCI HAR Dataset
   This folder contains the files extracted from the .zip provided as the raw data for this project
+
+
+Individual steps used in the process of converting raw data -> processed tidy data are documented within comments in the run_analysis.R file
+
+Note: for the run_analysis.R file to run without adjustment, the zip file containing the raw data, or the extracted data as provided in this repository must be stored in c:/Coursera/DataScience/c3Final
+
+
+The choice of a wide tidy data format was made for this particular application
